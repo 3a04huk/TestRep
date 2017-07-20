@@ -1,0 +1,407 @@
+#EXTM3U m3uautoload=1 deinterlace=1 cache=1000 tvg-shift=+3 url-tvg="http://iptv.flynet.by/jtv.zip"
+#EXTINF:0 group-title="Информационные" tvg-name="1" tvg-shift=+3,Беларусь 1
+http://127.0.0.1:8001/1
+#EXTINF:0 group-title="Информационные" tvg-name="2" tvg-shift=+3,Беларусь 2
+http://127.0.0.1:8001/2
+#EXTINF:0 group-title="Информационные" tvg-name="3" tvg-shift=+3,ОНТ
+http://127.0.0.1:8001/3
+#EXTINF:0 group-title="Информационные" tvg-name="4" tvg-shift=+3,СТВ
+http://127.0.0.1:8001/4
+#EXTINF:0 group-title="Информационные" tvg-name="5" tvg-shift=+3,НТВ Беларусь
+http://127.0.0.1:8001/5
+#EXTINF:0 group-title="Информационные" tvg-name="6" tvg-shift=+3,РТР Беларусь
+http://127.0.0.1:8001/6
+#EXTINF:0 group-title="Информационные" tvg-name="7" tvg-shift=+3,МИР
+http://127.0.0.1:8001/7
+#EXTINF:0 group-title="Информационные" tvg-name="8" tvg-shift=+3,Беларусь 3
+http://127.0.0.1:8001/8
+#EXTINF:0 group-title="Информационные" tvg-name="36" tvg-shift=+3,EuroNews
+http://127.0.0.1:8001/36
+#EXTINF:0 group-title="Информационные" tvg-name="51" tvg-shift=+3,France 24
+http://127.0.0.1:8001/51
+#EXTINF:0 group-title="Информационные" tvg-name="56" tvg-shift=+3,Bloomberg Television
+http://127.0.0.1:8001/56
+#EXTINF:0 group-title="Информационные" tvg-name="59" tvg-shift=+3,BBC World News
+http://127.0.0.1:8001/59
+#EXTINF:0 group-title="Информационные" tvg-name="69" tvg-shift=+3,РБК-ТВ
+http://127.0.0.1:8001/69
+#EXTINF:0 group-title="Информационные" tvg-name="84" tvg-shift=+3,World Business Channel
+http://127.0.0.1:8001/84
+#EXTINF:0 group-title="Информационные" tvg-name="122" tvg-shift=+3,ТВ Центр
+http://127.0.0.1:8001/122
+#EXTINF:0 group-title="Информационные" tvg-name="167" tvg-shift=+3,RT (английский)
+http://127.0.0.1:8001/167
+#EXTINF:0 group-title="Информационные" tvg-name="237" tvg-shift=+3,МИР HD
+http://127.0.0.1:8001/237
+#EXTINF:0 group-title="Развлекательные" tvg-name="20" tvg-shift=+3,ТНТ
+http://127.0.0.1:8001/20
+#EXTINF:0 group-title="Развлекательные" tvg-name="21" tvg-shift=+3,Пятница
+http://127.0.0.1:8001/21
+#EXTINF:0 group-title="Развлекательные" tvg-name="22" tvg-shift=+3,СТС
+http://127.0.0.1:8001/22
+#EXTINF:0 group-title="Развлекательные" tvg-name="43" tvg-shift=+3,TLC
+http://127.0.0.1:8001/43
+#EXTINF:0 group-title="Развлекательные" tvg-name="67" tvg-shift=+3,THT4
+http://127.0.0.1:8001/67
+#EXTINF:0 group-title="Развлекательные" tvg-name="68" tvg-shift=+3,Жара
+http://127.0.0.1:8001/68
+#EXTINF:0 group-title="Развлекательные" tvg-name="70" tvg-shift=+3,Fashion TV Network
+http://127.0.0.1:8001/70
+#EXTINF:0 group-title="Развлекательные" tvg-name="75" tvg-shift=+3,Морской
+http://127.0.0.1:8001/75
+#EXTINF:0 group-title="Развлекательные" tvg-name="77" tvg-shift=+3,Shopping Live
+http://127.0.0.1:8001/77
+#EXTINF:0 group-title="Развлекательные" tvg-name="92" tvg-shift=+3,CTC Love
+http://127.0.0.1:8001/92
+#EXTINF:0 group-title="Развлекательные" tvg-name="93" tvg-shift=+3,Game Show
+http://127.0.0.1:8001/93
+#EXTINF:0 group-title="Развлекательные" tvg-name="112" tvg-shift=+3,КВН ТВ
+http://127.0.0.1:8001/112
+#EXTINF:0 group-title="Развлекательные" tvg-name="119" tvg-shift=+3,Ностальгия
+http://127.0.0.1:8001/119
+#EXTINF:0 group-title="Развлекательные" tvg-name="123" tvg-shift=+3,ЖИВИ!
+http://127.0.0.1:8001/123
+#EXTINF:0 group-title="Развлекательные" tvg-name="125" tvg-shift=+3,Телекафе
+http://127.0.0.1:8001/125
+#EXTINF:0 group-title="Развлекательные" tvg-name="127" tvg-shift=+3,World Fashion
+http://127.0.0.1:8001/127
+#EXTINF:0 group-title="Развлекательные" tvg-name="128" tvg-shift=+3,Эгоист ТВ
+http://127.0.0.1:8001/128
+#EXTINF:0 group-title="Развлекательные" tvg-name="138" tvg-shift=+3,Че
+http://127.0.0.1:8001/138
+#EXTINF:0 group-title="Развлекательные" tvg-name="147" tvg-shift=+3,Кухня ТВ
+http://127.0.0.1:8001/147
+#EXTINF:0 group-title="Развлекательные" tvg-name="160" tvg-shift=+3,2x2
+http://127.0.0.1:8001/160
+#EXTINF:0 group-title="Развлекательные" tvg-name="162" tvg-shift=+3,ТДК
+http://127.0.0.1:8001/162
+#EXTINF:0 group-title="Развлекательные" tvg-name="202" tvg-shift=+3,HD Life
+http://127.0.0.1:8001/202
+#EXTINF:0 group-title="Развлекательные" tvg-name="216" tvg-shift=+3,TLC HD
+http://127.0.0.1:8001/216
+#EXTINF:0 group-title="Развлекательные" tvg-name="232" tvg-shift=+3,THT HD
+http://127.0.0.1:8001/232
+#EXTINF:0 group-title="Развлекательные" tvg-name="236" tvg-shift=+3,Тлум HD
+http://127.0.0.1:8001/236
+#EXTINF:0 group-title="Детские" tvg-name="24" tvg-shift=+3,В гостях у сказки
+http://127.0.0.1:8001/24
+#EXTINF:0 group-title="Детские" tvg-name="41" tvg-shift=+3,Nick Jr.
+http://127.0.0.1:8001/41
+#EXTINF:0 group-title="Детские" tvg-name="47" tvg-shift=+3,Duck
+http://127.0.0.1:8001/47
+#EXTINF:0 group-title="Детские" tvg-name="57" tvg-shift=+3,Nickelodeon
+http://127.0.0.1:8001/57
+#EXTINF:0 group-title="Детские" tvg-name="60" tvg-shift=+3,Детский мир + Телеклуб
+http://127.0.0.1:8001/60
+#EXTINF:0 group-title="Детские" tvg-name="74" tvg-shift=+3,Радость Моя
+http://127.0.0.1:8001/74
+#EXTINF:0 group-title="Детские" tvg-name="85" tvg-shift=+3,Ani
+http://127.0.0.1:8001/85
+#EXTINF:0 group-title="Детские" tvg-name="90" tvg-shift=+3,JimJam
+http://127.0.0.1:8001/90
+#EXTINF:0 group-title="Детские" tvg-name="95" tvg-shift=+3,Boomerang
+http://127.0.0.1:8001/95
+#EXTINF:0 group-title="Детские" tvg-name="102" tvg-shift=+3,Cartoon Network
+http://127.0.0.1:8001/102
+#EXTINF:0 group-title="Детские" tvg-name="126" tvg-shift=+3,Канал Disney
+http://127.0.0.1:8001/126
+#EXTINF:0 group-title="Детские" tvg-name="143" tvg-shift=+3,Мульт
+http://127.0.0.1:8001/143
+#EXTINF:0 group-title="Детские" tvg-name="159" tvg-shift=+3,Детский
+http://127.0.0.1:8001/159
+#EXTINF:0 group-title="Детские" tvg-name="168" tvg-shift=+3,TiJi
+http://127.0.0.1:8001/168
+#EXTINF:0 group-title="Детские" tvg-name="169" tvg-shift=+3,Gulli Girl
+http://127.0.0.1:8001/169
+#EXTINF:0 group-title="Детские" tvg-name="211" tvg-shift=+3,Nickelodeon HD
+http://127.0.0.1:8001/211
+#EXTINF:0 group-title="Кино" tvg-name="23" tvg-shift=+3,ТВ-3
+http://127.0.0.1:8001/23
+#EXTINF:0 group-title="Кино" tvg-name="25" tvg-shift=+3,Sony Turbo
+http://127.0.0.1:8001/25
+#EXTINF:0 group-title="Кино" tvg-name="27" tvg-shift=+3,TV 1000
+http://127.0.0.1:8001/27
+#EXTINF:0 group-title="Кино" tvg-name="28" tvg-shift=+3,TV 1000 Action
+http://127.0.0.1:8001/28
+#EXTINF:0 group-title="Кино" tvg-name="29" tvg-shift=+3,TB 1000 Русское кино
+http://127.0.0.1:8001/29
+#EXTINF:0 group-title="Кино" tvg-name="48" tvg-shift=+3,CBS Drama
+http://127.0.0.1:8001/48
+#EXTINF:0 group-title="Кино" tvg-name="53" tvg-shift=+3,Sony Sci-Fi
+http://127.0.0.1:8001/53
+#EXTINF:0 group-title="Кино" tvg-name="58" tvg-shift=+3,Sony Channel
+http://127.0.0.1:8001/58
+#EXTINF:0 group-title="Кино" tvg-name="63" tvg-shift=+3,Киносемья
+http://127.0.0.1:8001/63
+#EXTINF:0 group-title="Кино" tvg-name="64" tvg-shift=+3,Киносвидание
+http://127.0.0.1:8001/64
+#EXTINF:0 group-title="Кино" tvg-name="65" tvg-shift=+3,Родное кино
+http://127.0.0.1:8001/65
+#EXTINF:0 group-title="Кино" tvg-name="66" tvg-shift=+3,Киномикс
+http://127.0.0.1:8001/66
+#EXTINF:0 group-title="Кино" tvg-name="81" tvg-shift=+3,Detektiv.tv
+http://127.0.0.1:8001/81
+#EXTINF:0 group-title="Кино" tvg-name="82" tvg-shift=+3,Мир сериала
+http://127.0.0.1:8001/82
+#EXTINF:0 group-title="Кино" tvg-name="94" tvg-shift=+3,Русский бестселлер
+http://127.0.0.1:8001/94
+#EXTINF:0 group-title="Кино" tvg-name="96" tvg-shift=+3,Любимое Кино
+http://127.0.0.1:8001/96
+#EXTINF:0 group-title="Кино" tvg-name="97" tvg-shift=+3,Paramount Channel
+http://127.0.0.1:8001/97
+#EXTINF:0 group-title="Кино" tvg-name="99" tvg-shift=+3,CGTN-Русский
+http://127.0.0.1:8001/99
+#EXTINF:0 group-title="Кино" tvg-name="105" tvg-shift=+3,AMC
+http://127.0.0.1:8001/105
+#EXTINF:0 group-title="Кино" tvg-name="107" tvg-shift=+3,CBS Reality
+http://127.0.0.1:8001/107
+#EXTINF:0 group-title="Кино" tvg-name="116" tvg-shift=+3,Домашний
+http://127.0.0.1:8001/116
+#EXTINF:0 group-title="Кино" tvg-name="118" tvg-shift=+3,Индийское кино
+http://127.0.0.1:8001/118
+#EXTINF:0 group-title="Кино" tvg-name="129" tvg-shift=+3,Amedia Hit
+http://127.0.0.1:8001/129
+#EXTINF:0 group-title="Кино" tvg-name="136" tvg-shift=+3,A2
+http://127.0.0.1:8001/136
+#EXTINF:0 group-title="Кино" tvg-name="140" tvg-shift=+3,Кинохит
+http://127.0.0.1:8001/140
+#EXTINF:0 group-title="Кино" tvg-name="141" tvg-shift=+3,Наше Новое Кино
+http://127.0.0.1:8001/141
+#EXTINF:0 group-title="Кино" tvg-name="144" tvg-shift=+3,Кинокомедия
+http://127.0.0.1:8001/144
+#EXTINF:0 group-title="Кино" tvg-name="145" tvg-shift=+3,Киносерия
+http://127.0.0.1:8001/145
+#EXTINF:0 group-title="Кино" tvg-name="146" tvg-shift=+3,Мужское кино
+http://127.0.0.1:8001/146
+#EXTINF:0 group-title="Кино" tvg-name="150" tvg-shift=+3,Русский Иллюзион
+http://127.0.0.1:8001/150
+#EXTINF:0 group-title="Кино" tvg-name="151" tvg-shift=+3,Иллюзион+
+http://127.0.0.1:8001/151
+#EXTINF:0 group-title="Кино" tvg-name="152" tvg-shift=+3,Еврокино
+http://127.0.0.1:8001/152
+#EXTINF:0 group-title="Кино" tvg-name="153" tvg-shift=+3,Fox
+http://127.0.0.1:8001/153
+#EXTINF:0 group-title="Кино" tvg-name="155" tvg-shift=+3,Fox Life
+http://127.0.0.1:8001/155
+#EXTINF:0 group-title="Кино" tvg-name="161" tvg-shift=+3,Paramount Comedy
+http://127.0.0.1:8001/161
+#EXTINF:0 group-title="Кино" tvg-name="173" tvg-shift=+3,КИНО ТВ
+http://127.0.0.1:8001/173
+#EXTINF:0 group-title="Кино" tvg-name="176" tvg-shift=+3,Bollywood
+http://127.0.0.1:8001/176
+#EXTINF:0 group-title="Кино" tvg-name="200" tvg-shift=+3,Кинопремьера HD
+http://127.0.0.1:8001/200
+#EXTINF:0 group-title="Кино" tvg-name="214" tvg-shift=+3,Amedia Premium HD
+http://127.0.0.1:8001/214
+#EXTINF:0 group-title="Кино" tvg-name="221" tvg-shift=+3,MGM HD
+http://127.0.0.1:8001/221
+#EXTINF:0 group-title="Кино" tvg-name="223" tvg-shift=+3,TV 1000 Comedy HD
+http://127.0.0.1:8001/223
+#EXTINF:0 group-title="Кино" tvg-name="224" tvg-shift=+3,TV 1000 Megahit HD
+http://127.0.0.1:8001/224
+#EXTINF:0 group-title="Кино" tvg-name="225" tvg-shift=+3,TV 1000 Premium HD
+http://127.0.0.1:8001/225
+#EXTINF:0 group-title="Кино" tvg-name="235" tvg-shift=+3,FOX HD
+http://127.0.0.1:8001/235
+#EXTINF:0 group-title="Кино" tvg-name="238" tvg-shift=+3,Bollywood HD
+http://127.0.0.1:8001/238
+#EXTINF:0 group-title="Музыкальные" tvg-name="34" tvg-shift=+3,Русский роман
+http://127.0.0.1:8001/34
+#EXTINF:0 group-title="Музыкальные" tvg-name="40" tvg-shift=+3,MTV
+http://127.0.0.1:8001/40
+#EXTINF:0 group-title="Музыкальные" tvg-name="45" tvg-shift=+3,VH1 European
+http://127.0.0.1:8001/45
+#EXTINF:0 group-title="Музыкальные" tvg-name="46" tvg-shift=+3,Mezzo
+http://127.0.0.1:8001/46
+#EXTINF:0 group-title="Музыкальные" tvg-name="55" tvg-shift=+3,THT Music
+http://127.0.0.1:8001/55
+#EXTINF:0 group-title="Музыкальные" tvg-name="71" tvg-shift=+3,Bridge TV Dance
+http://127.0.0.1:8001/71
+#EXTINF:0 group-title="Музыкальные" tvg-name="86" tvg-shift=+3,Мама
+http://127.0.0.1:8001/86
+#EXTINF:0 group-title="Музыкальные" tvg-name="101" tvg-shift=+3,VH1 Classic
+http://127.0.0.1:8001/101
+#EXTINF:0 group-title="Музыкальные" tvg-name="106" tvg-shift=+3,MTV Dance
+http://127.0.0.1:8001/106
+#EXTINF:0 group-title="Музыкальные" tvg-name="115" tvg-shift=+3,Ru.TV
+http://127.0.0.1:8001/115
+#EXTINF:0 group-title="Музыкальные" tvg-name="117" tvg-shift=+3,Ю-ТВ
+http://127.0.0.1:8001/117
+#EXTINF:0 group-title="Музыкальные" tvg-name="124" tvg-shift=+3,Ля-минор ТВ
+http://127.0.0.1:8001/124
+#EXTINF:0 group-title="Музыкальные" tvg-name="130" tvg-shift=+3,МУЗ-ТВ
+http://127.0.0.1:8001/130
+#EXTINF:0 group-title="Музыкальные" tvg-name="134" tvg-shift=+3,Bridge TV
+http://127.0.0.1:8001/134
+#EXTINF:0 group-title="Музыкальные" tvg-name="135" tvg-shift=+3,Rusong TV
+http://127.0.0.1:8001/135
+#EXTINF:0 group-title="Музыкальные" tvg-name="154" tvg-shift=+3,MTV Rocks
+http://127.0.0.1:8001/154
+#EXTINF:0 group-title="Музыкальные" tvg-name="156" tvg-shift=+3,MTV Hits
+http://127.0.0.1:8001/156
+#EXTINF:0 group-title="Музыкальные" tvg-name="171" tvg-shift=+3,MCM Top
+http://127.0.0.1:8001/171
+#EXTINF:0 group-title="Музыкальные" tvg-name="175" tvg-shift=+3,Шансон-ТВ
+http://127.0.0.1:8001/175
+#EXTINF:0 group-title="Музыкальные" tvg-name="177" tvg-shift=+3,Романтика
+http://127.0.0.1:8001/177
+#EXTINF:0 group-title="Музыкальные" tvg-name="205" tvg-shift=+3,MTV Live HD
+http://127.0.0.1:8001/205
+#EXTINF:0 group-title="Музыкальные" tvg-name="208" tvg-shift=+3,Mezzo Live HD
+http://127.0.0.1:8001/208
+#EXTINF:0 group-title="Музыкальные" tvg-name="231" tvg-shift=+3,Bridge HD
+http://127.0.0.1:8001/231
+#EXTINF:0 group-title="Познавательные" tvg-name="26" tvg-shift=+3,Телеканал Да Винчи
+http://127.0.0.1:8001/26
+#EXTINF:0 group-title="Познавательные" tvg-name="30" tvg-shift=+3,Viasat Explore
+http://127.0.0.1:8001/30
+#EXTINF:0 group-title="Познавательные" tvg-name="31" tvg-shift=+3,Viasat History
+http://127.0.0.1:8001/31
+#EXTINF:0 group-title="Познавательные" tvg-name="32" tvg-shift=+3,Viasat Nature
+http://127.0.0.1:8001/32
+#EXTINF:0 group-title="Познавательные" tvg-name="35" tvg-shift=+3,Первый образовательный
+http://127.0.0.1:8001/35
+#EXTINF:0 group-title="Познавательные" tvg-name="37" tvg-shift=+3,Просвещение
+http://127.0.0.1:8001/37
+#EXTINF:0 group-title="Познавательные" tvg-name="38" tvg-shift=+3,Ocean-TV
+http://127.0.0.1:8001/38
+#EXTINF:0 group-title="Познавательные" tvg-name="39" tvg-shift=+3,Discovery Channel
+http://127.0.0.1:8001/39
+#EXTINF:0 group-title="Познавательные" tvg-name="42" tvg-shift=+3,Animal Planet
+http://127.0.0.1:8001/42
+#EXTINF:0 group-title="Познавательные" tvg-name="49" tvg-shift=+3,Nat Geo Wild
+http://127.0.0.1:8001/49
+#EXTINF:0 group-title="Познавательные" tvg-name="50" tvg-shift=+3,National Geographic
+http://127.0.0.1:8001/50
+#EXTINF:0 group-title="Познавательные" tvg-name="52" tvg-shift=+3,История
+http://127.0.0.1:8001/52
+#EXTINF:0 group-title="Познавательные" tvg-name="54" tvg-shift=+3,Авто 24
+http://127.0.0.1:8001/54
+#EXTINF:0 group-title="Познавательные" tvg-name="72" tvg-shift=+3,Совершенно секретно
+http://127.0.0.1:8001/72
+#EXTINF:0 group-title="Познавательные" tvg-name="73" tvg-shift=+3,Загородная жизнь
+http://127.0.0.1:8001/73
+#EXTINF:0 group-title="Познавательные" tvg-name="76" tvg-shift=+3,Amedia Premium
+http://127.0.0.1:8001/76
+#EXTINF:0 group-title="Познавательные" tvg-name="83" tvg-shift=+3,Ювелирочка
+http://127.0.0.1:8001/83
+#EXTINF:0 group-title="Познавательные" tvg-name="87" tvg-shift=+3,Food Network
+http://127.0.0.1:8001/87
+#EXTINF:0 group-title="Познавательные" tvg-name="91" tvg-shift=+3,Fine Living
+http://127.0.0.1:8001/91
+#EXTINF:0 group-title="Познавательные" tvg-name="100" tvg-shift=+3,Investigation Discovery Xtra
+http://127.0.0.1:8001/100
+#EXTINF:0 group-title="Познавательные" tvg-name="103" tvg-shift=+3,Discovery Turbo Xtra
+http://127.0.0.1:8001/103
+#EXTINF:0 group-title="Познавательные" tvg-name="104" tvg-shift=+3,Discovery Science
+http://127.0.0.1:8001/104
+#EXTINF:0 group-title="Познавательные" tvg-name="110" tvg-shift=+3,Спас-ТВ
+http://127.0.0.1:8001/110
+#EXTINF:0 group-title="Познавательные" tvg-name="131" tvg-shift=+3,Моя планета
+http://127.0.0.1:8001/131
+#EXTINF:0 group-title="Познавательные" tvg-name="132" tvg-shift=+3,Наука 2.0
+http://127.0.0.1:8001/132
+#EXTINF:0 group-title="Познавательные" tvg-name="133" tvg-shift=+3,Outdoor Channel
+http://127.0.0.1:8001/133
+#EXTINF:0 group-title="Познавательные" tvg-name="137" tvg-shift=+3,24 Док
+http://127.0.0.1:8001/137
+#EXTINF:0 group-title="Познавательные" tvg-name="139" tvg-shift=+3,Бобёр
+http://127.0.0.1:8001/139
+#EXTINF:0 group-title="Познавательные" tvg-name="142" tvg-shift=+3,365 дней ТВ
+http://127.0.0.1:8001/142
+#EXTINF:0 group-title="Познавательные" tvg-name="149" tvg-shift=+3,Авто Плюс
+http://127.0.0.1:8001/149
+#EXTINF:0 group-title="Познавательные" tvg-name="157" tvg-shift=+3,A1
+http://127.0.0.1:8001/157
+#EXTINF:0 group-title="Познавательные" tvg-name="163" tvg-shift=+3,Домашние животные
+http://127.0.0.1:8001/163
+#EXTINF:0 group-title="Познавательные" tvg-name="164" tvg-shift=+3,Охота и рыбалка
+http://127.0.0.1:8001/164
+#EXTINF:0 group-title="Познавательные" tvg-name="165" tvg-shift=+3,Психология 21
+http://127.0.0.1:8001/165
+#EXTINF:0 group-title="Познавательные" tvg-name="166" tvg-shift=+3,Russian Travel Guide TV
+http://127.0.0.1:8001/166
+#EXTINF:0 group-title="Познавательные" tvg-name="170" tvg-shift=+3,History
+http://127.0.0.1:8001/170
+#EXTINF:0 group-title="Познавательные" tvg-name="172" tvg-shift=+3,Travel Channel
+http://127.0.0.1:8001/172
+#EXTINF:0 group-title="Познавательные" tvg-name="174" tvg-shift=+3,Зоопарк
+http://127.0.0.1:8001/174
+#EXTINF:0 group-title="Познавательные" tvg-name="204" tvg-shift=+3,Discovery Channel HD
+http://127.0.0.1:8001/204
+#EXTINF:0 group-title="Познавательные" tvg-name="206" tvg-shift=+3,Nat Geo Wild HD
+http://127.0.0.1:8001/206
+#EXTINF:0 group-title="Познавательные" tvg-name="207" tvg-shift=+3,Russian Travel Guide HD
+http://127.0.0.1:8001/207
+#EXTINF:0 group-title="Познавательные" tvg-name="209" tvg-shift=+3,Animal Planet HD
+http://127.0.0.1:8001/209
+#EXTINF:0 group-title="Познавательные" tvg-name="213" tvg-shift=+3,National Geographic HD
+http://127.0.0.1:8001/213
+#EXTINF:0 group-title="Познавательные" tvg-name="215" tvg-shift=+3,History HD
+http://127.0.0.1:8001/215
+#EXTINF:0 group-title="Познавательные" tvg-name="217" tvg-shift=+3,Travel Channel HD
+http://127.0.0.1:8001/217
+#EXTINF:0 group-title="Познавательные" tvg-name="226" tvg-shift=+3,Viasat Nature/History HD
+http://127.0.0.1:8001/226
+#EXTINF:0 group-title="Познавательные" tvg-name="229" tvg-shift=+3,Конный мир HD
+http://127.0.0.1:8001/229
+#EXTINF:0 group-title="Спортивные" tvg-name="9" tvg-shift=+3,Беларусь 5
+http://127.0.0.1:8001/9
+#EXTINF:0 group-title="Спортивные" tvg-name="33" tvg-shift=+3,Viasat Sport
+http://127.0.0.1:8001/33
+#EXTINF:0 group-title="Спортивные" tvg-name="44" tvg-shift=+3,Eurosport 1
+http://127.0.0.1:8001/44
+#EXTINF:0 group-title="Спортивные" tvg-name="61" tvg-shift=+3,Матч! Планета
+http://127.0.0.1:8001/61
+#EXTINF:0 group-title="Спортивные" tvg-name="62" tvg-shift=+3,Матч! Футбол 1
+http://127.0.0.1:8001/62
+#EXTINF:0 group-title="Спортивные" tvg-name="78" tvg-shift=+3,Бокс ТВ
+http://127.0.0.1:8001/78
+#EXTINF:0 group-title="Спортивные" tvg-name="79" tvg-shift=+3,Матч! Арена
+http://127.0.0.1:8001/79
+#EXTINF:0 group-title="Спортивные" tvg-name="80" tvg-shift=+3,Матч! Игра
+http://127.0.0.1:8001/80
+#EXTINF:0 group-title="Спортивные" tvg-name="88" tvg-shift=+3,Russian extreme TV
+http://127.0.0.1:8001/88
+#EXTINF:0 group-title="Спортивные" tvg-name="89" tvg-shift=+3,Матч!
+http://127.0.0.1:8001/89
+#EXTINF:0 group-title="Спортивные" tvg-name="98" tvg-shift=+3,Viasat Golf
+http://127.0.0.1:8001/98
+#EXTINF:0 group-title="Спортивные" tvg-name="108" tvg-shift=+3,Матч! Футбол 3
+http://127.0.0.1:8001/108
+#EXTINF:0 group-title="Спортивные" tvg-name="109" tvg-shift=+3,Extreme Sports
+http://127.0.0.1:8001/109
+#EXTINF:0 group-title="Спортивные" tvg-name="111" tvg-shift=+3,NHK World TV
+http://127.0.0.1:8001/111
+#EXTINF:0 group-title="Спортивные" tvg-name="113" tvg-shift=+3,Матч! Футбол 2
+http://127.0.0.1:8001/113
+#EXTINF:0 group-title="Спортивные" tvg-name="114" tvg-shift=+3,Наш футбол
+http://127.0.0.1:8001/114
+#EXTINF:0 group-title="Спортивные" tvg-name="120" tvg-shift=+3,Матч! Наш спорт
+http://127.0.0.1:8001/120
+#EXTINF:0 group-title="Спортивные" tvg-name="121" tvg-shift=+3,Телеканал КХЛ
+http://127.0.0.1:8001/121
+#EXTINF:0 group-title="Спортивные" tvg-name="148" tvg-shift=+3,Матч! Боец
+http://127.0.0.1:8001/148
+#EXTINF:0 group-title="Спортивные" tvg-name="201" tvg-shift=+3,Матч! Игра HD
+http://127.0.0.1:8001/201
+#EXTINF:0 group-title="Спортивные" tvg-name="203" tvg-shift=+3,Eurosport 1 HD
+http://127.0.0.1:8001/203
+#EXTINF:0 group-title="Спортивные" tvg-name="210" tvg-shift=+3,Матч! Футбол 1 HD
+http://127.0.0.1:8001/210
+#EXTINF:0 group-title="Спортивные" tvg-name="212" tvg-shift=+3,Наш футбол HD
+http://127.0.0.1:8001/212
+#EXTINF:0 group-title="Спортивные" tvg-name="218" tvg-shift=+3,Матч! Футбол 2 HD
+http://127.0.0.1:8001/218
+#EXTINF:0 group-title="Спортивные" tvg-name="219" tvg-shift=+3,Телеканал КХЛ HD
+http://127.0.0.1:8001/219
+#EXTINF:0 group-title="Спортивные" tvg-name="220" tvg-shift=+3,Матч! Арена HD
+http://127.0.0.1:8001/220
+#EXTINF:0 group-title="Спортивные" tvg-name="222" tvg-shift=+3,Матч! HD
+http://127.0.0.1:8001/222
+#EXTINF:0 group-title="Спортивные" tvg-name="227" tvg-shift=+3,Viasat Sport HD
+http://127.0.0.1:8001/227
+#EXTINF:0 group-title="Спортивные" tvg-name="228" tvg-shift=+3,Матч! ФУТБОЛ 3 HD
+http://127.0.0.1:8001/228
+#EXTINF:0 group-title="Спортивные" tvg-name="230" tvg-shift=+3,Eurosport 2 HD
+http://127.0.0.1:8001/230
